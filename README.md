@@ -6,9 +6,9 @@ An ansible role for managing mail aliases
 Role Variables
 --------------
 
-aliases_list: a list of dictionaries holding the user and the alias
-    - user: postmaster
-      alias: root
+    aliases_list: a list of dictionaries holding the user and the alias
+        - user: postmaster
+          alias: root
 
 Example Playbook
 -------------------------
