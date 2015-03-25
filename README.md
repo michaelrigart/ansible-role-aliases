@@ -1,6 +1,6 @@
 Ansible aliases Role
 ====================
-[![Build Status](https://travis-ci.org/michaelrigart/ansible-role-aliases.svg)](https://travis-ci.org/michaelrigart/ansible-role-aliases)
+[![Build Status](https://travis-ci.org/michaelrigart/ansible-role-aliases.svg?branch=master)](https://travis-ci.org/michaelrigart/ansible-role-aliases)
 
 An ansible role for managing mail aliases
 
