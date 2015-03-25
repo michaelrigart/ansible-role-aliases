@@ -1,4 +1,4 @@
 ---
 
-- name: update_aliases
-  command: newaliases
+- name: aliases_update
+  command: which newaliases && newaliases

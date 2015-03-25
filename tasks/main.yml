@@ -7,4 +7,4 @@
     owner: root
     group: root
     mode: 644
-  notify: update_aliases
+  notify: aliases_update
