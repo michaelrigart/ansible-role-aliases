@@ -1,4 +1,4 @@
 ---
 
 - name: aliases_update
-  shell: which newaliases && newaliases
+  shell: which newaliases && newaliases || true
