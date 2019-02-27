@@ -6,5 +6,5 @@
     dest: /etc/aliases
     owner: root
     group: root
-    mode: 644
+    mode: 0644
   notify: aliases_update
